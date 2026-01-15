@@ -1,2 +1,1 @@
-# distance-responsive-text
-Tool to make typography respond to distance with p5.js
+a simple prototype to explore whether text on a screen could respond to the distance it was being viewed from. read more & see a demo here: https://arjunmakesthings.github.io/projects/2023_distance-responsive-type/page.html
